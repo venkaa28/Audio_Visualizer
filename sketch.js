@@ -15,7 +15,8 @@ var d = 50;
 
 function preload() {
     //soundFormats('mp3');
-    song = loadSound("RickFlair.mp3");
+    //Change AUDIO_FILE.MP3 to the name of the audio file you place in the project folder
+    song = loadSound("AUDIO_FILE.MP3");
 }
 
 function setup() {
